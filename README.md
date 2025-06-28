@@ -41,7 +41,7 @@ Easily customizable to apply for any job title or location.
 
 ```bash
 # Clone this repo
-git clone 
+git clone https://github.com/catsmoker/France-Travail-Job-Automator.git
 cd Saisonnier-Job-Bot
 
 # Create and activate virtual environment
